@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It uses AND, OR, and XOR gates to make a 3-Bit Full Adder
 
 ## How to test
 
-Explain how to use your project
+Input all 8 combinations for A, B, and C and check that the right values are output.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+2 LEDs
